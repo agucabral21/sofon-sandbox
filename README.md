@@ -3,7 +3,7 @@ Sandbox para la dominacion Total de JS
 
 ## Directorios Principales: 
 
-- [**server**](#server) : : servidor principal para pruebas
+- [**server**](#server) : servidor principal para pruebas
 -  [**client-ecom**](#client-ecom) : e-commerce creado con REACT.JS
 -  [**resources**](#resources) : archivos utiles
 
