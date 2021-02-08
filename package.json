@@ -1,0 +1,19 @@
+{
+  "name": "sofon-sandbox",
+  "version": "1.0.0",
+  "description": "Sandbox for Mastering JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agucabral21/sofon-sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agucabral21/sofon-sandbox/issues"
+  },
+  "homepage": "https://github.com/agucabral21/sofon-sandbox#readme"
+}
